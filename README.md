@@ -22,11 +22,12 @@ https://github.com/XRPL-Commons/Jan2024_EVM_Links
 ### Using and EVM smart contract
 https://github.com/XRPL-Commons/Jan2024_web3/blob/main/readme.md
 
+-----------
 
 ## Rules
 
-Build on Mainnet and XRPL EM Sidechain
-All projects must have a component on mainnet
+- Build on Mainnet and XRPL EM Sidechain
+- All projects must have a component on mainnet
 
 4 criteria are equaly weighted
 - idea (the originality of the idea)
