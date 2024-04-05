@@ -29,18 +29,22 @@ https://github.com/XRPL-Commons/Jan2024_web3/blob/main/readme.md
 
 -------
 ## Themes
-__Finance & Defi__
-Cross-border transactions, micropayments, tokenized payments, and digital wallets, decentralized exchanges, lending, asset management, financial inclusion, personal finance tools, supply chain finance, crowdfunding, sustainable finance, and risk management
 
-__Real World Assets__
-Tokenization of all assets including climate, ESG Impact, insurance, and regulatory technology
+#### __Finance & DeFi__
+##### _Revolutionizing financial interactions through blockchain technology._
+Explore the vast landscape of Finance & DeFi by innovating in areas like cross-border transactions, micropayments, tokenized payments, and digital wallets. Dive into decentralized exchanges, lending, asset management, and more to foster financial inclusion, develop personal finance tools, reimagine supply chain finance, enable crowdfunding, promote sustainable finance, and enhance risk management—all on the blockchain.
 
-__UX and Gamification__
-Design solutions to onboard the next billion users
+#### __Real World Assets__
+##### _Bridging tangible assets and blockchain._
+Transform the way we interact with tangible assets through the tokenization of everything from climate initiatives to ESG impact projects, insurance, and regulatory technologies. This theme invites participants to reimagine asset ownership and management, ensuring accessibility and transparency through blockchain technology.
 
-__Digital Identity__
-Bring new identity products to life. POAPS, certificates, verified credentials.
+#### __UX and Gamification__
+##### _Crafting engaging blockchain experiences._
+Focus on the fusion of UX and Gamification to design captivating and intuitive solutions that aim to onboard the next billion users to blockchain technologies. This theme challenges participants to create user-friendly interfaces and rewarding experiences that demystify blockchain for the everyday user.
 
+#### __Digital Identity__
+##### _Innovating identity verification on the blockchain._
+Long: This theme is all about bringing new identity products to life within the blockchain ecosystem. From POAPs (Proof of Attendance Protocols) to certificates and verified credentials, participants are invited to redefine how digital identities are created, managed, and trusted across various platforms.
 
 -----------
 
