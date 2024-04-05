@@ -22,7 +22,7 @@ https://github.com/XRPL-Commons/xrpl-commons-tutorials
 ### EVM Documentation and setup
 https://github.com/XRPL-Commons/Jan2024_EVM_Links
 
-### Using and EVM smart contract
+### Using an EVM smart contract
 https://github.com/XRPL-Commons/Jan2024_web3/blob/main/readme.md
 
 
@@ -50,7 +50,7 @@ Long: This theme is all about bringing new identity products to life within the 
 
 ## Rules
 
-- Build on Mainnet and XRPL EM Sidechain
+- Build on Mainnet and XRPL EVM Sidechain
 - All projects must have a component on mainnet
 
 4 criteria are equaly weighted
