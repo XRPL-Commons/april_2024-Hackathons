@@ -63,12 +63,12 @@ Long: This theme is all about bringing new identity products to life within the 
 -------------
 ## Mentors
 
-Marco (Ripple) Developer Relations Philosophy 
-Jason (Ripple) Developer Relations Payments
-Hussein (XRP Cafe) NFT Ninja and Crypto Master
-Ferran (Peersyst) XRPL EVM Sidechain
-Adria (Peersyst) XRPL EVM Sidechain
-Luc (XRPL Commons) Business and General Technology
+- Marco (Ripple) Developer Relations Philosophy 
+- Jason (Ripple) Developer Relations Payments
+- Abner (Ripple) Developer Relations Mainnet
+- Hussein (XRP Cafe) NFT Ninja and Crypto Master
+- Thomas Hussenet (Cypher Labs) Cryptography 
+- Luc (XRPL Commons) Business and General Technology
 
 
 -------------
