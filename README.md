@@ -69,6 +69,7 @@ Long: This theme is all about bringing new identity products to life within the 
 - Hussein (XRP Cafe) NFT Ninja and Crypto Master
 - Thomas Hussenet (Cypher Labs) Cryptography 
 - Luc (XRPL Commons) Business and General Technology
+- David (XRPL Commons) Business & Opportunity
 
 
 -------------
