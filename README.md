@@ -1,4 +1,4 @@
-# april_2024-Hackathons
+# April 2024 Hackathons
 
 ## Hackathon Ideas
 https://github.com/XRPL-Commons/community-ideas/blob/main/hackathon/index.md
