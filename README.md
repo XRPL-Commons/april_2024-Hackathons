@@ -1,6 +1,9 @@
 # April 2024 Hackathons
 
 
+------------
+## links
+
 ### Hackathon Ideas
 https://github.com/XRPL-Commons/community-ideas/blob/main/hackathon/index.md
 
@@ -22,6 +25,23 @@ https://github.com/XRPL-Commons/Jan2024_EVM_Links
 ### Using and EVM smart contract
 https://github.com/XRPL-Commons/Jan2024_web3/blob/main/readme.md
 
+
+
+-------
+## Themes
+__Finance & Defi__
+Cross-border transactions, micropayments, tokenized payments, and digital wallets, decentralized exchanges, lending, asset management, financial inclusion, personal finance tools, supply chain finance, crowdfunding, sustainable finance, and risk management
+
+__Real World Assets__
+Tokenization of all assets including climate, ESG Impact, insurance, and regulatory technology
+
+__UX and Gamification__
+Design solutions to onboard the next billion users
+
+__Digital Identity__
+Bring new identity products to life. POAPS, certificates, verified credentials.
+
+
 -----------
 
 ## Rules
@@ -36,3 +56,18 @@ https://github.com/XRPL-Commons/Jan2024_web3/blob/main/readme.md
 - potential (the total value transacted on chain, the business model, and the potential reach)
 
 
+-------------
+## Mentors
+
+Marco (Ripple) Developer Relations Philosophy 
+Jason (Ripple) Developer Relations Payments
+Hussein (XRP Cafe) NFT Ninja and Crypto Master
+Ferran (Peersyst) XRPL EVM Sidechain
+Adria (Peersyst) XRPL EVM Sidechain
+Luc (XRPL Commons) Business and General Technology
+
+
+-------------
+## API Keys
+
+OpenAI Keys are available upon request
